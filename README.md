@@ -24,3 +24,16 @@ Personal LeetCode practice log — part of B25GE0101 portfolio
 - [Merge Two Sorted Lists](linked-lists/02-merge-two-sorted-lists.md)
 
 See [PROGRESS.md](PROGRESS.md) for the running practice log.
+
+## Submission Screenshots
+
+| Problem | Screenshot |
+|---------|------------|
+| Two Sum | [View](screenshots/two-sum.png) |
+| Valid Anagram | [View](screenshots/valid-anagram.png) |
+| Binary Search | [View](screenshots/binary-search.png) |
+| Move Zeroes | [View](screenshots/move-zeroes.png) |
+| Valid Parentheses | [View](screenshots/valid-parentheses.png) |
+| Min Stack | [View](screenshots/min-stack.png) |
+| Reverse Linked List | [View](screenshots/reverse-linked-list.png) |
+| Merge Two Sorted Lists | [View](screenshots/merge-two-sorted-lists.png) |
